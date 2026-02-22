@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.first {
+  color: whitesmoke;
+  background: #121;
+}
+.second {
+  background: #ff0;
+}
+.first,
+.second {
+  font-size: 30px;
+  font-family: "Times New Roman", Helvetica, sans-serif;
+}
