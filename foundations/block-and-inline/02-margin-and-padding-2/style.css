@@ -18,14 +18,14 @@ body {
   background: #e3f4ff;
 }
 .title,
-.content {
+.content,
+.button-container {
   padding: 10px;
 }
 .button-container {
   background: #e3f4ff;
   margin: 20px auto;
   text-align: center;
-  padding: 10px;
 }
 
 button {
